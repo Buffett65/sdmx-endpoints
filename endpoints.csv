@@ -1,2 +1,2 @@
-mbs;statistics maldives;platform=stat-suite;data-api=https://nsi-stable-maldives-dst.officialstatistics.org/rest;structure-api=https://nsi-stable-maldives-dst.officialstatistics.org/rest;dataportal=https://data.statisticsmaldives.gov.mv
-escap;;platform=stat-suite;data-api=https://api-dataexplorer.unescap.org/rest/;structure-api=https://api-dataexplorer.unescap.org/rest/;dataportal=https://dataexplorer.unescap.org
+mbs,statistics maldives,platform=stat-suite,data-api=https://nsi-stable-maldives-dst.officialstatistics.org/rest,structure-api=https://nsi-stable-maldives-dst.officialstatistics.org/rest,dataportal=https://data.statisticsmaldives.gov.mv
+escap,,platform=stat-suite,data-api=https://api-dataexplorer.unescap.org/rest/,structure-api=https://api-dataexplorer.unescap.org/rest/,dataportal=https://dataexplorer.unescap.org

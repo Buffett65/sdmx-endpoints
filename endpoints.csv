@@ -1,3 +1,7 @@
 abbreviation,institution,platform(s),data api,structure api,data portal url
 mbs,statistics maldives,stat-suite,https://nsi-stable-maldives-dst.officialstatistics.org/rest,https://nsi-stable-maldives-dst.officialstatistics.org/rest,https://data.statisticsmaldives.gov.mv
 escap,,stat-suite,https://api-dataexplorer.unescap.org/rest/,https://api-dataexplorer.unescap.org/rest/,https://dataexplorer.unescap.org
+camstat,NIS cambodia,stat suite,https://nsiws-stable-camstat-live.officialstatistics.org/rest/,https://nsiws-stable-camstat-live.officialstatistics.org/rest/,https://camstat.nis.gov.kh/?locale=en
+tunisia,NIS tunisia,.stat suite,unknown,unknown,unknown
+kazakhstan,NIS kazakhstan,.stat suite,unknown,unknown,unknown
+statec,statistics luxembourg,.stat suite,,,https://lustat.statec.lu/?lc=en
